@@ -25,3 +25,5 @@ Arvioli Please put in your ideas here
 
 Add business requirements we think we need 
 
+References : https://www.w3resource.com/mysql/mysql-triggers.php
+https://www.w3schools.com/mysql/mysql_view.asp
